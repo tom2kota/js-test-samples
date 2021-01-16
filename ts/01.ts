@@ -1,5 +1,4 @@
-// @ts-ignore
-const fetch = require("node-fetch");
+import fetch from 'node-fetch';
 
 const url = 'https://jsonplaceholder.typicode.com/todos/1';
 
