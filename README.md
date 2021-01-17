@@ -29,3 +29,17 @@ allows other developers to understand what values are in codebase
     - function
     - class
 
+----
+
+## Type annotations vs Type inference
+
+**Type inference** - TypeScript guesses the type
+
+-   Always (to use)
+
+**Type annotations** - Developer set the type
+
+- When the function returns the ***any*** type & need to clarify the value
+- When developer declare a variable in one line & initialize in later
+- When developer want a variable to have a type that can't be inferred
+
