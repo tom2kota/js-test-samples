@@ -43,3 +43,8 @@ allows other developers to understand what values are in codebase
 - When developer declare a variable in one line & initialize in later
 - When developer want a variable to have a type that can't be inferred
 
+---
+
+# P.S.
+## Online Diagram Software
+[https://app.diagrams.net](https://app.diagrams.net)
