@@ -1,5 +1,11 @@
 # Recent JS & TS tasks & questions
 
+------
+
+Download & Install [Node.js](https://nodejs.org/)
+
+Run in terminal
+
 ```
 npm i  
 cd ts
