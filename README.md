@@ -1,4 +1,6 @@
-# Recent JS & TS tasks & questions
+# Recent JS + TS tasks & questions
+
+Code samples
 
 ------
 

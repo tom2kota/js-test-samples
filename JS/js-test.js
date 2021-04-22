@@ -6,5 +6,7 @@ let obj = {
 }
 
 let printName = obj.printName
+console.log(obj)
+// let printName = obj.printName.bind(obj)
 
 printName()
