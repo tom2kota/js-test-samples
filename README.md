@@ -1,6 +1,9 @@
 # Recent JS + TS tasks & questions
 
-Code samples
+Code samples - copy/paste to
+
+- [Typescript Playground](https://www.typescriptlang.org/play)
+- [JS / TS Playground](https://jsfiddle.net)
 
 ------
 
@@ -13,12 +16,13 @@ npm i
 cd ts
 ts-node 01.ts
 ```
+
 ---
 
 ## Types in TypeScript
-Type is an easy way to refer to the different properties & functions that a value has,
-are used by the TypeScript Compiler to analyze code errors,
-allows other developers to understand what values are in codebase
+
+Type is an easy way to refer to the different properties & functions that a value has, are used by the TypeScript
+Compiler to analyze code errors, allows other developers to understand what values are in codebase
 
 **Primitive types:**
 
@@ -43,7 +47,7 @@ allows other developers to understand what values are in codebase
 
 **Type inference** - TypeScript guesses the type
 
--   Always (to use)
+- Always (to use)
 
 **Type annotations** - Developer set the type
 
@@ -53,6 +57,16 @@ allows other developers to understand what values are in codebase
 
 ---
 
+## Modifiers (restrict access to some functions / variables)
+
+- **public**(default) - this method can be called anywhere & anytime
+- **private** - this method can ONLY be called by other methods in this CLASS (restrict call from other methods)
+- **protected** - this method can be called by other methods in this CLASS, or by other methods in CHILD CLASSES
+
+---
+
 # P.S.
+
 ## Online Diagram Software
+
 [https://app.diagrams.net](https://app.diagrams.net)
